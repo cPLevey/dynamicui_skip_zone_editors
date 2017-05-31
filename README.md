@@ -13,7 +13,8 @@ Official documentation for Dynamic UI files can be found here: [Guide to cPanel 
 
 ### Copy & Paste
 
-+ Curl
++ `curl -sL 'https://surl.host/dynamicconf' > /usr/local/cpanel/base/frontend/paper_lantern/dynamicui/dynamicui_skip_zone_editors.conf`
+
 
 
 [1]: https://documentation.cpanel.net/display/ALD/Advanced+Zone+Editor
