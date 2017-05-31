@@ -36,5 +36,5 @@ Official documentation for Dynamic UI files can be found here: [Guide to cPanel 
 [3]: https://documentation.cpanel.net/display/ALD/62+Release+Notes#id-62ReleaseNotes-SimpleZoneEditorandAdvancedZoneEditorcombinedintoZoneEditor
 [4]: https://documentation.cpanel.net/display/SDK/Guide+to+cPanel+Plugins+-+The+dynamicui+Files
 
-[before]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_before.png "Before"
-[after]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_after.png "After"
+[zone_before]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_before.png "Before"
+[zone_after]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_after.png "After"
