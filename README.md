@@ -4,6 +4,7 @@ The [Advanced Zone Editor][1] & [Simple Zone Editor][2] became deprecated in v62
 
 Official documentation for Dynamic UI files can be found here: [Guide to cPanel Plugins - The dynamicui Files][4]
 
+
 ## Use & Installation
 
 ### Manual
@@ -11,9 +12,22 @@ Official documentation for Dynamic UI files can be found here: [Guide to cPanel 
 + Create the `dynamicui_skip_zone_editors.conf` file in the `/usr/local/cpanel/base/frontend/paper_lantern/dynamicui` directory.
 + Copy the contents of `dynamicui_skip_zone_editors.conf` from this repository into the newly created file. 
 
+
 ### Copy & Paste
 
 + `curl -sL 'https://surl.host/dynamicconf' > /usr/local/cpanel/base/frontend/paper_lantern/dynamicui/dynamicui_skip_zone_editors.conf`
+
+
+## Screenshots
+
+### Before
+
+![alt text][zone_before]
+
+### After
+
+![alt text][zone_after]
+
 
 
 
@@ -21,3 +35,6 @@ Official documentation for Dynamic UI files can be found here: [Guide to cPanel 
 [2]: https://documentation.cpanel.net/display/ALD/Simple+Zone+Editor
 [3]: https://documentation.cpanel.net/display/ALD/62+Release+Notes#id-62ReleaseNotes-SimpleZoneEditorandAdvancedZoneEditorcombinedintoZoneEditor
 [4]: https://documentation.cpanel.net/display/SDK/Guide+to+cPanel+Plugins+-+The+dynamicui+Files
+
+[before]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_before.png "Before"
+[after]: https://github.com/cPLevey/dynamicui_skip_zone_editors/raw/master/screenshots/zone_after.png "After"
